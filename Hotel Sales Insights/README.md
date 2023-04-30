@@ -141,7 +141,6 @@ Total Successful Bookings = SUM(fact_aggregated_bookings[successful_bookings])
 - Next, I created a section with different cards including Revenue, RevPar, DBRN, Occupancy %, ADR and Realization %. Below each card, I have inserted the WoW changes of each in the form of table.
 
 
-### 4) Interpretation of Analysis:
 
 
 
